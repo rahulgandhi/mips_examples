@@ -1,4 +1,5 @@
 	.text
+	.globl main
 main:
 	li $t0, 10
 	li $t1, 11
